@@ -1,5 +1,0 @@
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseServer\bin\Debug\RemoteMouseServer.exe.config
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseServer\bin\Debug\RemoteMouseServer.exe
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseServer\bin\Debug\RemoteMouseServer.pdb
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseServer\obj\Debug\RemoteMouseServer.exe
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseServer\obj\Debug\RemoteMouseServer.pdb

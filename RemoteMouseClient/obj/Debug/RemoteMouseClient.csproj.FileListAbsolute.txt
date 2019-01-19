@@ -1,9 +1,0 @@
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\bin\Debug\RemoteMouseClient.exe.config
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\bin\Debug\RemoteMouseClient.exe
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\bin\Debug\RemoteMouseClient.pdb
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.Form1.resources
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.Properties.Resources.resources
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.csproj.GenerateResource.Cache
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.exe
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.pdb
-C:\Projetos\Trabalho\RemoteMouseServer\RemoteMouseClient\obj\Debug\RemoteMouseClient.csprojResolveAssemblyReference.cache
