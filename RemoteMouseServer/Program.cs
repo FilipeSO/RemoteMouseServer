@@ -12,8 +12,8 @@ namespace RemoteMouseServer
         {
             UDPServerAssinc.ServerStart();
             Console.WriteLine("Em execução");
-            
-            while (true);
+            Console.ReadLine();
+            //while (true);
         }
     }
 }

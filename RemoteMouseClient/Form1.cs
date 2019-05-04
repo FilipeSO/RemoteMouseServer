@@ -37,6 +37,7 @@ namespace RemoteMouseClient
             this.KeyDown += Form1_KeyDown;
             this.KeyUp += Form1_KeyUp;
             label1.Visible = false;
+
         }
 
         private void Form1_KeyUp(object sender, KeyEventArgs e)
